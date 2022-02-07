@@ -4,6 +4,7 @@
 <title>Page Title</title>
 </head>
 <para> This is a basic HTML document.</para>
+<para> Updating the develop branch in gitflow. </para>
 <body>
 
 <h1>My First Heading</h1>
